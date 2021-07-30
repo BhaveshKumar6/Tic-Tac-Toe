@@ -43,6 +43,8 @@ ol, ul {
 .game {
   display: flex;
   flex-direction: row;
+  margin-left: 38vw;
+  margin-top: 30vh;
 }
 
 .game-info {
